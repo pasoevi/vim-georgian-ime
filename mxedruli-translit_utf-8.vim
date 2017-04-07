@@ -1,9 +1,8 @@
 " mxedruli-translit_utf-8.vim
 "
-" Maintainer: Kenneth R. Beesley krbeesley ATT gmail DOTT com
-" Created: 2008-09-21
-" Last Changed: 2012-01-09
-
+" Maintainer: Sergo Pasoevi sergo ATT pasoevi DOTT com
+" Created: 2010-07-21
+" Last Changed: 2020-09-01
 " vim keymap (input method) for entering Georgian mxedruli
 
 " Installation: place this file in ~/.vim/keymap/
